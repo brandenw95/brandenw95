@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Branden Walter</h1>
+<h1 align="center">Hi 👋, I'm Branden</h1>
 <h3 align="center">A passionate Fullstack developer based in Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandenw95&label=Profile%20views&color=0e75b6&style=flat" alt="brandenw95" /> </p>
